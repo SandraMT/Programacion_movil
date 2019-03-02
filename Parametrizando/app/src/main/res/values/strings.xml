@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parametrizando</string>
+    <string name="lbl_Nombre">Nombre</string>
+    <string name="lbl_Edad">Edad</string>
+    <string name="lbl_Puesto">Puesto</string>
+
+    <string name="txt_nombre">nombre</string>
+    <string name="txt_edad">edad</string>
+    <string name="txt_puesto">puesto</string>
+
+</resources>
