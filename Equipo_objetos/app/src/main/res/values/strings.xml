@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Equipo_objetos</string>
+    <string name="hola">Hola</string>
+    <string name="holi">Holi</string>
+    <string name="holo">Holo</string>
+    <string name="hulu">Hulu</string>
+</resources>
